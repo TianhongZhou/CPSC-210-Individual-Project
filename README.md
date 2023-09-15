@@ -6,7 +6,7 @@ This application, **New Game of Life**, can allow the user to play a game which 
 of Life**. The users will be able to set the initial state by themselves, and to see how will the initial state go 
 based on the rule, after pressing the start button. 
 
-Generally, the users will be those who like trying and plying different games. In addition, those who are interested 
+Generally, the users will be those who like trying and playing different games. In addition, those who are interested 
 in **Conway's Game of Life** may also be drawn into the **New Game of Life**.
 
 The reason why this project is interesting to me is that firstly, I want to make a game by myself. Secondly, I learned
